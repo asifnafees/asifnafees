@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @asifnafees
-- 👀 I’m interested in Flutter Developer Full time Oppertunity
-- 🌱 I’m currently learning Firebase and some back-end Services
-- 💞️ I’m looking to collaborate on LinkedIn 
-- 📫 How to reach me  LinkedIn
-- 😄 Pronouns: Flutter Developer and Content Creator on LinkedIn and Youtube
-- ⚡ Fun fact: Pending...
+👋 Hi, I’m **Asif Nafees**
 
-<!---
-asifnafees/asifnafees is a ✨Flutter Developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡**Passionate DSA Learner | Aspiring Data Scientist**
+
+🔍 **Interests**
+
+* 📘 **Data Structures & Algorithms (DSA)**
+* 🐍 **Python, NumPy, Pandas**
+* 📊 **Data Science & Machine Learning**
+* ⚙️ **Clean, scalable and optimized code**
+
+## 📚 **Currently Learning**
+
+* 🧠 Advanced DSA concepts
+* 📈 Data Science (EDA, Visualization, ML)
+* 🛠️ Python libraries for analytics and modeling
+
+## 🤝 **Open to Collaborate On**
+
+* 🔢 DSA coding challenges
+* 📊 Data science mini projects
+* 🌍 Open-source contributions
+
+## 😄 **About Me**
+
+* 🚀 Consistent learner & tech enthusiast
+* ✍️ Love creating helpful programming content
+* 📂 Enjoy exploring datasets & real-world problem solving
+
+## ⚡ **Fun Fact**
+
+* My to-do list is always “Pending…”, but my motivation never is 😄
