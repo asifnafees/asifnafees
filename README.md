@@ -1,22 +1,18 @@
-👋 Hi, I’m **Asif Nafees**
-💡**Passionate DSA Learner | Aspiring Data Scientist**
+👋 Hi, I'm **Asif Nafees**
+
+💡 **Data Scientist | AI Engineer | Generative AI & Agentic AI Enthusiast**
 
 🔍 **Interests**
-* 📘 **Data Structures & Algorithms (DSA)**
-* 🐍 **Python, NumPy, Pandas**
-* 📊 **Data Science & Machine Learning**
-* ⚙️ **Clean, scalable and optimized code**
 
-## 🤝 **Open to Collaborate On**
-* 🔢 DSA coding challenges
-* 📊 Data science mini projects
-* 🌍 Open-source contributions
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Generative AI, LLMs & Agentic AI
+* 🐍 Python, Data Science & RAG
+* ⚡ Building AI-powered applications
 
-## 😄 **About Me**
-* 🚀 Consistent learner & tech enthusiast
-* ✍️ Love creating helpful programming content
-* 📂 Enjoy exploring datasets & real-world problem solving
+🤝 **Open to Collaborate On**
 
-## ⚡ **Fun Fact**
+* AI & Data Science Projects
+* Generative AI & Agentic AI Solutions
+* Open Source & AI Research
 
-
+🚀 Passionate about building intelligent AI solutions and sharing knowledge through training, content, and real-world projects.
